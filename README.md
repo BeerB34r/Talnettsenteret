@@ -5,7 +5,7 @@ Quo fugiam ab eorum spiritibus
 
 Norsk
 ---
-Dette er et utdypningsprosjekt innenfor webdesign av elever i Talentsenteret i realfag ved Vitensenteret i Trondheim. Dette er kilden til Talnettsenteret.no, men er også ment å være en læringsressurs, og logg for lærerne våre.
+Dette er et utdypningsprosjekt innenfor webdesign av elever i Talentsenteret i realfag ved Vitensenteret i Trondheim. Dette er kilden* til Talnettsenteret.no, men er også ment å være en læringsressurs, og logg for lærerne våre.
 
 Vi har også en Trello, så så lenge dette prosjektet er pågående vil man kunne se statusen der https://trello.com/b/k1jZI5YE/talnettsenteret
 
