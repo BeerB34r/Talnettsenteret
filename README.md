@@ -17,4 +17,8 @@ We have a trello :) https://trello.com/b/k1jZI5YE/talnettsenteret
 
 toki pona
 ---
-lipu ni li pali musi suli pi sona lipu sewi lon kulupu Talensenteje.
+lipu ni li pali musi suli pi sona lipu sewi lon kulupu Talensenteje. ni li mama sona. ni li lipu tawa jan pana sona mi. ni li mama e lipu Talnettsenteret.no.
+
+mi jo e lipu lawa Telo! https://trello.com/b/k1jZI5YE/talnettsenteret
+
+sina olin ala olin e kijetesantakalu?
